@@ -1,6 +1,5 @@
 .venv
 data
-results
 checkpoints
 build
 tensorboard
