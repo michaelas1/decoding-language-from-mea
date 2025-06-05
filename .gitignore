@@ -1,0 +1,10 @@
+.venv
+data
+results
+checkpoints
+build
+tensorboard
+*.egg-info
+*.pyc
+*/__pycache__/*
+.vscode
